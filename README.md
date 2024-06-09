@@ -1,2 +1,2 @@
-# Pratik-Hava-S-cakl-na-G-re-Etkinlik-nerme
+# Pratik-Hava-Sicaklina-Gore-Etkinlik-onerme
 Hava sicakligina gore etkinlik oneren program
